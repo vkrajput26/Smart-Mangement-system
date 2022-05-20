@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(230, 213, 182);
+}
+#navbar{
+    border: 1px solid black;
+    height:90px;
+
+}
+#form{
+    display: grid;
+    width: 55%;
+    margin: auto;
+    gap: 15px;
+}
